@@ -1,0 +1,31 @@
+﻿Reference,Study,Control,Genus,Species,Ocean,NO3,NH4,TOTAL N,PO4,TOTALN/P,Response level,N,SD,SE,Response type,Exposure in days
+NU03,1_Bednarz et al 2020,control,Stylophora,pistillata,Indian,0.5,0.2,0.7,0.2,3.5,0.58,8,0.02,0.005986089,MQY (Fv/Fm),42
+NU03,1_Bednarz et al 2020,exp,Stylophora,pistillata,Indian,0.5,4,4.5,0.2,22.5,0.55,8,0.02,0.00673435,MQY (Fv/Fm),42
+NU04,2_Beraud et al 2013,control,Turbinaria,reniformis,Indian,0,0.7,0.7,0.5,1.4,0.152112676,5,0.017096697,0.007645875,MQY (Fv/Fm),35
+NU04,2_Beraud et al 2013,exp,Turbinaria,reniformis,Indian,0,3.4,3.4,0.5,6.8,0.260362173,5,0.17276662,0.077263581,MQY (Fv/Fm),35
+NU23a,3_Fabricius et al 2013,control,Acropora,millepora,Pacific,0.23,0.21,0.44,0.076,5.789473684,0.646,16,0.040816327,0.010204082,MQY (Fv/Fm),90
+NU23a,3_Fabricius et al 2013,exp,Acropora,millepora,Pacific,0.12,0.21,0.33,0.073,4.520547945,0.654,16,0.036734694,0.009183673,MQY (Fv/Fm),90
+NU23b,3_Fabricius et al 2013,control,Acropora,millepora,Pacific,0.23,0.21,0.44,0.076,5.789473684,0.628,16,0.028571429,0.007142857,MQY (Fv/Fm),90
+NU23b,3_Fabricius et al 2013,exp,Acropora,millepora,Pacific,0.12,0.21,0.33,0.073,4.520547945,0.647,16,0.042857143,0.010714286,MQY (Fv/Fm),90
+NU34a,4_Higuchi 2015,control,Montipora,digitata,Pacific,1,0,1,0,1,0.783505,3,0.06785309,0.039175,MQY (Fv/Fm),3
+NU34a,4_Higuchi 2015,exp,Montipora,digitata,Pacific,10,0,10,0,10,0.713402,3,0.164276359,0.094845,MQY (Fv/Fm),3
+NU34b,4_Higuchi 2015,control,Montipora,digitata,Pacific,1,0,1,0,1,0.727835,3,0.04642589,0.026804,MQY (Fv/Fm),6
+NU34b,4_Higuchi 2015,exp,Montipora,digitata,Pacific,10,0,10,0,10,0.682474,3,0.017857444,0.01031,MQY (Fv/Fm),6
+NU50,5_Liu et al 2009,control,Acropora,muricata,Pacific,2.24,0,2.24,0.04,56,0.63,3,0.019454194,0.011231884,MQY (Fv/Fm),105
+NU50,5_Liu et al 2009,exp,Acropora,muricata,Pacific,4.12,0,4.12,0.7,5.885714286,0.7,3,0.005023948,0.002900578,MQY (Fv/Fm),105
+NU58,6_Miller 2013,control,Porites,cylindrica,Pacific,20.56,0,20.56,0,20.56,0.41119403,6,0.094140847,0.03843284,MQY (Fv/Fm),15
+NU58,6_Miller 2013,exp,Porites,cylindrica,Pacific,44.6,0,44.6,0,44.6,0.44402985,6,0.053011343,0.02164179,MQY (Fv/Fm),15
+NU58,6_Miller 2013,exp,Porites,cylindrica,Pacific,64.8,0,64.8,0,64.8,0.36828358,6,0.0393015,0.01604477,MQY (Fv/Fm),15
+NU58,6_Miller 2013,exp,Porites,cylindrica,Pacific,127.9,0,127.9,0,127.9,0.37761194,6,0.027419662,0.01119403,MQY (Fv/Fm),15
+NU91a,7_Wiedenmann et al 2012,control,Montipora,foliosa,Lab reared,0.7,0,0.7,0.006,116.6666667,0.61,5,0.01,0.004472136,MQY (Fv/Fm),84
+NU91a,7_Wiedenmann et al 2012,exp,Montipora,foliosa,Lab reared,5.8,0,5.8,0.294,19.72789116,0.52,5,0.05,0.02236068,MQY (Fv/Fm),84
+NU91a,7_Wiedenmann et al 2012,exp,Montipora,foliosa,Lab reared,2.3,0,2.3,0.694,3.314121037,0.39,5,0.04,0.017888544,MQY (Fv/Fm),84
+NU91b,7_Wiedenmann et al 2012,control,Acropora,microphthalma,Lab reared,0.7,0,0.7,0.006,116.6666667,0.59,5,0.02,0.008944272,MQY (Fv/Fm),84
+NU91b,7_Wiedenmann et al 2012,exp,Acropora,microphthalma,Lab reared,5.8,0,5.8,0.294,19.72789116,0.55,5,0.05,0.02236068,MQY (Fv/Fm),84
+NU91b,7_Wiedenmann et al 2012,exp,Acropora,microphthalma,Lab reared,2.3,0,2.3,0.694,3.314121037,0.37,5,0.05,0.02236068,MQY (Fv/Fm),84
+NU91c,7_Wiedenmann et al 2012,control,Acropora,polystoma,Lab reared,0.7,0,0.7,0.006,116.6666667,0.61,5,0.05,0.02236068,MQY (Fv/Fm),84
+NU91c,7_Wiedenmann et al 2012,exp,Acropora,polystoma,Lab reared,5.8,0,5.8,0.294,19.72789116,0.68,5,0.04,0.017888544,MQY (Fv/Fm),84
+NU91c,7_Wiedenmann et al 2012,exp,Acropora,polystoma,Lab reared,2.3,0,2.3,0.694,3.314121037,0.58,5,0.03,0.013416408,MQY (Fv/Fm),84
+NU91d,7_Wiedenmann et al 2012,control,Montipora,spp.,Lab reared,0.7,0,0.7,0.006,116.6666667,0.58,5,0.06,0.026832816,MQY (Fv/Fm),84
+NU91d,7_Wiedenmann et al 2012,exp,Montipora,spp.,Lab reared,5.8,0,5.8,0.294,19.72789116,0.6,5,0.05,0.02236068,MQY (Fv/Fm),84
+NU91d,7_Wiedenmann et al 2012,exp,Montipora,spp.,Lab reared,2.3,0,2.3,0.694,3.314121037,0.43,5,0.06,0.026832816,MQY (Fv/Fm),84
