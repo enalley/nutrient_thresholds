@@ -1,0 +1,177 @@
+﻿RefID,Author(s) Year,Genus,Species,Control,Exposure.in.days,pulse.press,Coral age class,Total N,PO4,Std. Response,Response,SD,SE,N,RiskRatio,SERiskRatio,Cases,Coral Type,Family
+NU23a,Fabricius et al 2013,Acropora,millepora,control,90,press,adult,0.44,0.076,Survival,100,0,0,16,,,16,branching,Acroporidae
+NU23a,Fabricius et al 2013,Acropora,millepora,exp,90,press,adult,0.33,0.073,Survival,100,0,0,16,1,0,16,branching,Acroporidae
+NU23b,Fabricius et al 2013,Acropora,millepora,control,90,press,adult,0.44,0.076,Survival,100,0,0,16,,,16,branching,Acroporidae
+NU23b,Fabricius et al 2013,Acropora,millepora,exp,90,press,adult,0.33,0.073,Survival,100,0,0,16,1,0,16,branching,Acroporidae
+NU44,Kline et al 2006,Montastrea,annularis,control,30,press,adult,0,0,Survival,92.7,n/a,n/a,30,,,27.81,mounding,Merulinidae
+NU44,Kline et al 2006,Montastrea,annularis,exp,30,press,adult,0,0.5,Survival,90,n/a,n/a,10,0.970873786,0.117200965,9,mounding,Merulinidae
+NU44,Kline et al 2006,Montastrea,annularis,exp,30,press,adult,0,2.5,Survival,100,n/a,n/a,10,1.078748652,0.051234315,10,mounding,Merulinidae
+NU44,Kline et al 2006,Montastrea,annularis,exp,30,press,adult,0,5,Survival,90,n/a,n/a,10,0.970873786,0.117200965,9,mounding,Merulinidae
+NU44,Kline et al 2006,Montastrea,annularis,exp,30,press,adult,0.5,0,Survival,100,n/a,n/a,10,1.078748652,0.051234315,10,mounding,Merulinidae
+NU44,Kline et al 2006,Montastrea,annularis,exp,30,press,adult,2.5,0,Survival,100,n/a,n/a,10,1.078748652,0.051234315,10,mounding,Merulinidae
+NU44,Kline et al 2006,Montastrea,annularis,exp,30,press,adult,5,0,Survival,80,n/a,n/a,10,0.862998921,0.166207566,8,mounding,Merulinidae
+NU44,Kline et al 2006,Montastrea,annularis,exp,30,press,adult,1,0,Survival,90,n/a,n/a,10,0.970873786,0.117200965,9,mounding,Merulinidae
+NU44,Kline et al 2006,Montastrea,annularis,exp,30,press,adult,2.5,0,Survival,90,n/a,n/a,10,0.970873786,0.117200965,9,mounding,Merulinidae
+NU44,Kline et al 2006,Montastrea,annularis,exp,30,press,adult,6.25,0,Survival,100,n/a,n/a,10,1.078748652,0.051234315,10,mounding,Merulinidae
+NU47a,Kuntz et al 2005,Montastrea,annularis,control,30,press,adult,0,0,Survival,88.92,n/a,n/a,49,,,43.5708,mounding,Merulinidae
+NU47a,Kuntz et al 2005,Montastrea,annularis,exp,30,press,adult,7.5,0.5,Survival,89.85,n/a,n/a,10,1.010458839,0.117641799,8.985,mounding,Merulinidae
+NU47a,Kuntz et al 2005,Montastrea,annularis,exp,30,press,adult,32.5,2.5,Survival,70,n/a,n/a,10,0.787224471,0.213073063,7,mounding,Merulinidae
+NU47b,Kuntz et al 2005,Agaricia,tenuifolia,control,30,press,adult,0,0,Survival,89.85,n/a,n/a,10,,,8.985,blading,Agariciidae
+NU47b,Kuntz et al 2005,Agaricia,tenuifolia,exp,30,press,adult,7.5,0.5,Survival,85.92,n/a,n/a,10,0.956260434,0.166384923,8.592,blading,Agariciidae
+NU47b,Kuntz et al 2005,Agaricia,tenuifolia,exp,30,press,adult,32.5,2.5,Survival,49.92,n/a,n/a,10,0.555592654,0.334091482,4.992,blading,Agariciidae
+NU47c,Kuntz et al 2005,Porites,furcata,control,30,press,adult,0,0,Survival,76,n/a,n/a,10,,,7.6,branching,Poritidae
+NU47c,Kuntz et al 2005,Porites,furcata,exp,30,press,adult,7.5,0.5,Survival,87.07,n/a,n/a,10,1.145657895,0.215474054,8.707,branching,Poritidae
+NU47c,Kuntz et al 2005,Porites,furcata,exp,30,press,adult,32.5,2.5,Survival,95.15,n/a,n/a,10,1.251973684,0.191510215,9.515,branching,Poritidae
+NU63c,Renegar and Riegl 2005,Acropora,cervicornis,control,84,press,adult,0.7,0.08,Survival,87,n/a,n/a,12,,,10.44,branching,Acroporidae
+NU63c,Renegar and Riegl 2005,Acropora,cervicornis,exp,84,press,adult,9.93,0.07,Survival,57,n/a,n/a,12,0.655172414,0.27444053,6.84,branching,Acroporidae
+NU63c,Renegar and Riegl 2005,Acropora,cervicornis,exp,84,press,adult,0.73,4.14,Survival,42,n/a,n/a,12,0.482758621,0.357115489,5.04,branching,Acroporidae
+NU63c,Renegar and Riegl 2005,Acropora,cervicornis,exp,84,press,adult,10.01,4.06,Survival,5,n/a,n/a,12,0.057471264,1.263244015,0.6,branching,Acroporidae
+NU63c,Renegar and Riegl 2005,Acropora,cervicornis,exp,84,press,adult,10.08,0.08,Survival,40,n/a,n/a,12,0.459770115,0.37074534,4.8,branching,Acroporidae
+NU63c,Renegar and Riegl 2005,Acropora,cervicornis,exp,84,press,adult,0.57,4.17,Survival,25,n/a,n/a,12,0.287356322,0.512300798,3,branching,Acroporidae
+NU63c,Renegar and Riegl 2005,Acropora,cervicornis,exp,84,press,adult,9.88,4.35,Survival,5,n/a,n/a,12,0.057471264,1.263244015,0.6,branching,Acroporidae
+NU71,Samlansin et al 2020,Porites,spp.,control,5,pulse,adult,0.08,0,Survival,100,n/a,n/a,3,,,3,mounding,Poritidae
+NU71,Samlansin et al 2020,Porites,spp.,exp,5,pulse,adult,1.61,0,Survival,83.33,n/a,n/a,3,0.8333,0.258229873,2.4999,mounding,Poritidae
+NU33a,Harrison and Ward 2001,Acropora,longicyathus,control,0.020833333,pulse,egg,0.65,0.2,Fertilization,94.42,1.677050983,0.75,5,,,4.721,branching,Acroporidae
+NU33a,Harrison and Ward 2001,Acropora,longicyathus,exp,0.020833333,pulse,egg,1.65,0.2,Fertilization,94.05,3.264659247,1.46,5,0.996081339,0.156436485,4.7025,branching,Acroporidae
+NU33a,Harrison and Ward 2001,Acropora,longicyathus,exp,0.020833333,pulse,egg,10.65,0.2,Fertilization,94.05,1.632329624,0.73,5,0.996081339,0.156436485,4.7025,branching,Acroporidae
+NU33a,Harrison and Ward 2001,Acropora,longicyathus,exp,0.020833333,pulse,egg,100.65,0.2,Fertilization,77.32,14.13194962,6.32,5,0.818894302,0.265489768,3.866,branching,Acroporidae
+NU33b,Harrison and Ward 2001,Acropora,longicyathus,control,0.020833333,pulse,egg,0.65,0.2,Fertilization,76.95,9.97286318,4.46,5,,,3.8475,branching,Acroporidae
+NU33b,Harrison and Ward 2001,Acropora,longicyathus,exp,0.020833333,pulse,egg,1.65,0.2,Fertilization,17.1,12.47725931,5.58,5,0.222222222,1.014642634,0.855,branching,Acroporidae
+NU33b,Harrison and Ward 2001,Acropora,longicyathus,exp,0.020833333,pulse,egg,10.65,0.2,Fertilization,12.27,8.318172876,3.72,5,0.159454191,1.220614961,0.6135,branching,Acroporidae
+NU33b,Harrison and Ward 2001,Acropora,longicyathus,exp,0.020833333,pulse,egg,100.65,0.2,Fertilization,15.99,9.123157348,4.08,5,0.207797271,1.053893149,0.7995,branching,Acroporidae
+NU33c,Harrison and Ward 2001,Acropora,longicyathus,control,0.020833333,pulse,egg,0.65,0.2,Fertilization,90.31,5.769055382,2.58,5,,,4.5155,branching,Acroporidae
+NU33c,Harrison and Ward 2001,Acropora,longicyathus,exp,0.020833333,pulse,egg,0.65,1.06,Fertilization,20.55,13.25988311,5.93,5,0.227549552,0.891456913,1.0275,branching,Acroporidae
+NU33c,Harrison and Ward 2001,Acropora,longicyathus,exp,0.020833333,pulse,egg,0.65,10.06,Fertilization,46.25,13.23752243,5.92,5,0.512124903,0.50387682,2.3125,branching,Acroporidae
+NU33c,Harrison and Ward 2001,Acropora,longicyathus,exp,0.020833333,pulse,egg,0.65,100.6,Fertilization,54.94,17.6872977,7.91,5,0.60834902,0.430688877,2.747,branching,Acroporidae
+NU33d,Harrison and Ward 2001,Acropora,longicyathus,control,0.020833333,pulse,egg,0.65,0.2,Fertilization,76.29,9.704535022,4.34,5,,,3.8145,branching,Acroporidae
+NU33d,Harrison and Ward 2001,Acropora,longicyathus,exp,0.020833333,pulse,egg,0.65,1.06,Fertilization,1.98,0,0,5,0.025953598,3.156448583,0.099,branching,Acroporidae
+NU33d,Harrison and Ward 2001,Acropora,longicyathus,exp,0.020833333,pulse,egg,0.65,10.06,Fertilization,3.56,5.299481107,2.37,5,0.046664045,1.906859184,0.178,branching,Acroporidae
+NU33d,Harrison and Ward 2001,Acropora,longicyathus,exp,0.020833333,pulse,egg,0.65,100.6,Fertilization,0.06,0.737902433,0.33,5,0.000786473,18.25364322,0.003,branching,Acroporidae
+NU33e,Harrison and Ward 2001,Acropora,longicyathus,control,0.020833333,pulse,egg,0.65,0.2,Fertilization,90.96,1.364001466,0.61,5,,,4.548,branching,Acroporidae
+NU33e,Harrison and Ward 2001,Acropora,longicyathus,exp,0.020833333,pulse,egg,1.15,0.7,Fertilization,21.69,12.11948844,5.42,5,0.238456464,0.861371452,1.0845,branching,Acroporidae
+NU33e,Harrison and Ward 2001,Acropora,longicyathus,exp,0.020833333,pulse,egg,5.65,5.2,Fertilization,21.69,10.77784765,4.82,5,0.238456464,0.861371452,1.0845,branching,Acroporidae
+NU33e,Harrison and Ward 2001,Acropora,longicyathus,exp,0.020833333,pulse,egg,50.65,50.2,Fertilization,16.26,8.094566079,3.62,5,0.178759894,1.024640995,0.813,branching,Acroporidae
+NU33f,Harrison and Ward 2001,Acropora,longicyathus,control,0.020833333,pulse,egg,0.65,0.2,Fertilization,71.08,20.21405452,9.04,5,,,3.554,branching,Acroporidae
+NU33f,Harrison and Ward 2001,Acropora,longicyathus,exp,0.020833333,pulse,egg,1.15,0.7,Fertilization,3.62,1.341640786,0.6,5,0.050928531,2.325131175,0.181,branching,Acroporidae
+NU33f,Harrison and Ward 2001,Acropora,longicyathus,exp,0.020833333,pulse,egg,5.65,5.2,Fertilization,1.2,1.364001466,0.61,5,0.016882386,4.067928191,0.06,branching,Acroporidae
+NU33f,Harrison and Ward 2001,Acropora,longicyathus,exp,0.020833333,pulse,egg,50.65,50.2,Fertilization,0.3,0.670820393,0.3,5,0.004220597,8.157698191,0.015,branching,Acroporidae
+NU33g,Harrison and Ward 2001,Goniastrea,aspera,control,0.020833333,pulse,egg,0.65,0.2,Fertilization,91.37,4.96407091,2.22,5,,,4.5685,mounding,Merulinidae
+NU33g,Harrison and Ward 2001,Goniastrea,aspera,exp,0.020833333,pulse,egg,1.15,0.2,Fertilization,92.76,2.482035455,1.11,5,1.015212871,0.185742842,4.638,mounding,Merulinidae
+NU33g,Harrison and Ward 2001,Goniastrea,aspera,exp,0.020833333,pulse,egg,1.65,0.2,Fertilization,88.58,2.482035455,1.11,5,0.969464813,0.211364207,4.429,mounding,Merulinidae
+NU33g,Harrison and Ward 2001,Goniastrea,aspera,exp,0.020833333,pulse,egg,5.65,0.2,Fertilization,88.58,6.842368011,3.06,5,0.969464813,0.211364207,4.429,mounding,Merulinidae
+NU33g,Harrison and Ward 2001,Goniastrea,aspera,exp,0.020833333,pulse,egg,50.65,0.2,Fertilization,83.27,9.391485505,4.2,5,0.911349458,0.243048895,4.1635,mounding,Merulinidae
+NU33h,Harrison and Ward 2001,Goniastrea,aspera,control,0.020833333,pulse,egg,0.65,0.2,Fertilization,82.73,8.094566079,3.62,5,,,4.1365,mounding,Merulinidae
+NU33h,Harrison and Ward 2001,Goniastrea,aspera,exp,0.020833333,pulse,egg,1.15,0.2,Fertilization,79.67,5.590169944,2.5,5,0.963012208,0.304607606,3.9835,mounding,Merulinidae
+NU33h,Harrison and Ward 2001,Goniastrea,aspera,exp,0.020833333,pulse,egg,1.65,0.2,Fertilization,75.49,7.468467045,3.34,5,0.912486402,0.326628267,3.7745,mounding,Merulinidae
+NU33h,Harrison and Ward 2001,Goniastrea,aspera,exp,0.020833333,pulse,egg,5.65,0.2,Fertilization,78.83,11.8287996,5.29,5,0.952858697,0.308967293,3.9415,mounding,Merulinidae
+NU33h,Harrison and Ward 2001,Goniastrea,aspera,exp,0.020833333,pulse,egg,50.65,0.2,Fertilization,74.37,8.720665112,3.9,5,0.898948386,0.332679897,3.7185,mounding,Merulinidae
+NU33i,Harrison and Ward 2001,Goniastrea,aspera,control,0.020833333,pulse,egg,0.65,0.2,Fertilization,89.78,3.465905365,1.55,5,,,4.489,mounding,Merulinidae
+NU33i,Harrison and Ward 2001,Goniastrea,aspera,exp,0.020833333,pulse,egg,0.65,0.7,Fertilization,93.5,2.079543219,0.93,5,1.041434618,0.191495448,4.675,mounding,Merulinidae
+NU33i,Harrison and Ward 2001,Goniastrea,aspera,exp,0.020833333,pulse,egg,0.65,1.2,Fertilization,91.02,4.159086438,1.86,5,1.013811539,0.206152105,4.551,mounding,Merulinidae
+NU33i,Harrison and Ward 2001,Goniastrea,aspera,exp,0.020833333,pulse,egg,0.65,5.2,Fertilization,89.78,5.545448584,2.48,5,1,0.213385863,4.489,mounding,Merulinidae
+NU33i,Harrison and Ward 2001,Goniastrea,aspera,exp,0.020833333,pulse,egg,0.65,50.2,Fertilization,86.07,4.829906831,2.16,5,0.958676765,0.234810062,4.3035,mounding,Merulinidae
+NU33j,Harrison and Ward 2001,Goniastrea,aspera,control,0.020833333,pulse,egg,0.65,0.2,Fertilization,82.97,4.159086438,1.86,5,,,4.1485,mounding,Merulinidae
+NU33j,Harrison and Ward 2001,Goniastrea,aspera,exp,0.020833333,pulse,egg,0.65,0.7,Fertilization,82.66,7.624991803,3.41,5,0.99626371,0.288107582,4.133,mounding,Merulinidae
+NU33j,Harrison and Ward 2001,Goniastrea,aspera,exp,0.020833333,pulse,egg,0.65,1.2,Fertilization,82.66,8.318172876,3.72,5,0.99626371,0.288107582,4.133,mounding,Merulinidae
+NU33j,Harrison and Ward 2001,Goniastrea,aspera,exp,0.020833333,pulse,egg,0.65,5.2,Fertilization,79.88,11.76171756,5.26,5,0.962757623,0.302368229,3.994,mounding,Merulinidae
+NU33j,Harrison and Ward 2001,Goniastrea,aspera,exp,0.020833333,pulse,egg,0.65,50.2,Fertilization,76.47,5.545448584,2.48,5,0.921658431,0.32029901,3.8235,mounding,Merulinidae
+NU33k,Harrison and Ward 2001,Goniastrea,aspera,control,0.020833333,pulse,egg,0.65,0.2,Fertilization,94.22,3.868397601,1.73,5,,,4.711,mounding,Merulinidae
+NU33k,Harrison and Ward 2001,Goniastrea,aspera,exp,0.020833333,pulse,egg,0.85,0.45,Fertilization,92.1,4.315611197,1.93,5,0.977499469,0.171535487,4.605,mounding,Merulinidae
+NU33k,Harrison and Ward 2001,Goniastrea,aspera,exp,0.020833333,pulse,egg,1.15,0.7,Fertilization,88.25,4.293250517,1.92,5,0.936637657,0.197225892,4.4125,mounding,Merulinidae
+NU33k,Harrison and Ward 2001,Goniastrea,aspera,exp,0.020833333,pulse,egg,3.15,2.7,Fertilization,90.17,5.187677708,2.32,5,0.957015496,0.184587155,4.5085,mounding,Merulinidae
+NU33k,Harrison and Ward 2001,Goniastrea,aspera,exp,0.020833333,pulse,egg,25.65,25.2,Fertilization,85.16,4.315611197,1.93,5,0.903842072,0.217074182,4.258,mounding,Merulinidae
+NU33l,Harrison and Ward 2001,Goniastrea,aspera,control,0.020833333,pulse,egg,0.65,0.2,Fertilization,84.01,3.443544685,1.54,5,,,4.2005,mounding,Merulinidae
+NU33l,Harrison and Ward 2001,Goniastrea,aspera,exp,0.020833333,pulse,egg,0.85,0.45,Fertilization,78.61,7.759155882,3.47,5,0.935721938,0.3041175,3.9305,mounding,Merulinidae
+NU33l,Harrison and Ward 2001,Goniastrea,aspera,exp,0.020833333,pulse,egg,1.15,0.7,Fertilization,81.5,5.612530624,2.51,5,0.970122604,0.288904257,4.075,mounding,Merulinidae
+NU33l,Harrison and Ward 2001,Goniastrea,aspera,exp,0.020833333,pulse,egg,3.15,2.7,Fertilization,78.42,5.165317028,2.31,5,0.933460302,0.305129279,3.921,mounding,Merulinidae
+NU33l,Harrison and Ward 2001,Goniastrea,aspera,exp,0.020833333,pulse,egg,25.65,25.2,Fertilization,79.19,4.293250517,1.92,5,0.942625878,0.301038266,3.9595,mounding,Merulinidae
+NU40a,"Humphrey, Weber, Lott, Cooper, Fabricius 2008",Acropora,millepora,control,0.125,press,egg,0.05,0,Fertilization,87.9245283,5.484695064,2.4528302,5,,,4.396226415,branching,Acroporidae
+NU40a,"Humphrey, Weber, Lott, Cooper, Fabricius 2008",Acropora,millepora,exp,0.125,press,egg,1.25,0.25,Fertilization,91.6981132,5.484695064,2.4528302,5,1.042918455,0.213482569,4.58490566,branching,Acroporidae
+NU40a,"Humphrey, Weber, Lott, Cooper, Fabricius 2008",Acropora,millepora,exp,0.125,press,egg,2.5,0.5,Fertilization,87.5471698,4.640895807,2.0754717,5,0.995708154,0.236465826,4.37735849,branching,Acroporidae
+NU40a,"Humphrey, Weber, Lott, Cooper, Fabricius 2008",Acropora,millepora,exp,0.125,press,egg,5,1,Fertilization,96.4150943,4.218996289,1.8867925,5,1.096566523,0.186826686,4.820754715,branching,Acroporidae
+NU40a,"Humphrey, Weber, Lott, Cooper, Fabricius 2008",Acropora,millepora,exp,0.125,press,egg,10,2,Fertilization,89.245283,6.328494322,2.8301887,5,1.015021459,0.22708873,4.46226415,branching,Acroporidae
+NU40a,"Humphrey, Weber, Lott, Cooper, Fabricius 2008",Acropora,millepora,exp,0.125,press,egg,20,4,Fertilization,89.6226415,4.218996289,1.8867925,5,1.019313305,0.225001569,4.481132075,branching,Acroporidae
+NU40b,"Humphrey, Weber, Lott, Cooper, Fabricius 2008",Acropora,millepora,control,0.125,press,egg,0.05,0,Fertilization,88.1904762,6.388765522,2.8571428,5,,,4.40952381,branching,Acroporidae
+NU40b,"Humphrey, Weber, Lott, Cooper, Fabricius 2008",Acropora,millepora,exp,0.125,press,egg,1.25,0.25,Fertilization,85.1428571,4.259177089,1.9047619,5,0.965442764,0.248356974,4.257142855,branching,Acroporidae
+NU40b,"Humphrey, Weber, Lott, Cooper, Fabricius 2008",Acropora,millepora,exp,0.125,press,egg,2.5,0.5,Fertilization,87.8095238,5.536930283,2.4761905,5,0.995680345,0.233554242,4.39047619,branching,Acroporidae
+NU40b,"Humphrey, Weber, Lott, Cooper, Fabricius 2008",Acropora,millepora,exp,0.125,press,egg,5,1,Fertilization,89.5238095,5.962848015,2.6666667,5,1.01511879,0.224022572,4.476190475,branching,Acroporidae
+NU40b,"Humphrey, Weber, Lott, Cooper, Fabricius 2008",Acropora,millepora,exp,0.125,press,egg,10,2,Fertilization,90.2857143,5.962848015,2.6666667,5,1.023758099,0.219774532,4.514285715,branching,Acroporidae
+NU40b,"Humphrey, Weber, Lott, Cooper, Fabricius 2008",Acropora,millepora,exp,0.125,press,egg,20,4,Fertilization,87.4285714,0.425917731,0.1904762,5,0.991360691,0.235669318,4.37142857,branching,Acroporidae
+NU40c,"Humphrey, Weber, Lott, Cooper, Fabricius 2008",Acropora,millepora,control,0.125,press,egg,0.05,0,Fertilization,86.5185185,5.632166654,2.5187815,5,,,4.325925925,branching,Acroporidae
+NU40c,"Humphrey, Weber, Lott, Cooper, Fabricius 2008",Acropora,millepora,exp,0.125,press,egg,5,1,Fertilization,88.302106,6.298766469,2.816894,5,1.020615095,0.240124026,4.4151053,branching,Acroporidae
+NU40c,"Humphrey, Weber, Lott, Cooper, Fabricius 2008",Acropora,millepora,exp,0.125,press,egg,10,2,Fertilization,96.24999,3.726787416,1.66667,5,1.112478481,0.197374297,4.8124995,branching,Acroporidae
+NU48a,Lam et al 2015,Platygyra,acuta,control,4,pulse,egg,2.25,0.08,Fertilization,90.88,3.868397601,1.73,5,,,4.544,mounding,Merulinidae
+NU48a,Lam et al 2015,Platygyra,acuta,exp,4,pulse,egg,7.25,0.08,Fertilization,86.43,3.309380607,1.48,5,0.951034331,0.226873437,4.3215,mounding,Merulinidae
+NU48a,Lam et al 2015,Platygyra,acuta,exp,4,pulse,egg,52.25,0.08,Fertilization,87.91,4.427414595,1.98,5,0.967319542,0.218118834,4.3955,mounding,Merulinidae
+NU48a,Lam et al 2015,Platygyra,acuta,exp,4,pulse,egg,102.25,0.08,Fertilization,83.96,4.405053916,1.97,5,0.923855634,0.241410632,4.198,mounding,Merulinidae
+NU48a,Lam et al 2015,Platygyra,acuta,exp,4,pulse,egg,202.25,0.08,Fertilization,74.32,8.295812197,3.71,5,0.81778169,0.298625164,3.716,mounding,Merulinidae
+NU48a,Lam et al 2015,Platygyra,acuta,exp,4,pulse,egg,7.25,0.08,Fertilization,84.95,3.309380607,1.48,5,0.93474912,0.23559081,4.2475,mounding,Merulinidae
+NU48a,Lam et al 2015,Platygyra,acuta,exp,4,pulse,egg,52.25,0.08,Fertilization,81.73,7.200138888,3.22,5,0.899317782,0.25451642,4.0865,mounding,Merulinidae
+NU48a,Lam et al 2015,Platygyra,acuta,exp,4,pulse,egg,102.25,0.08,Fertilization,79.26,5.523087904,2.47,5,0.872139085,0.269080867,3.963,mounding,Merulinidae
+NU48a,Lam et al 2015,Platygyra,acuta,exp,4,pulse,egg,202.25,0.08,Fertilization,77.04,1.654690303,0.74,5,0.847711268,0.28226906,3.852,mounding,Merulinidae
+NU48a,Lam et al 2015,Platygyra,acuta,exp,4,pulse,egg,52.25,50.08,Fertilization,85.44,5.523087904,2.47,5,0.940140845,0.232707584,4.272,mounding,Merulinidae
+NU48a,Lam et al 2015,Platygyra,acuta,exp,4,pulse,egg,102.25,100.08,Fertilization,77.04,4.96407091,2.22,5,0.847711268,0.28226906,3.852,mounding,Merulinidae
+NU02a,Bassim and Sammarco 2003,Diploria,strigosa,control,3.333333333,pulse,larva,0,0,Survival,59.6016,30.40897959,15.2044898,4,,,2.384064,mounding,Mussidae
+NU02a,Bassim and Sammarco 2003,Diploria,strigosa,exp,3.083333333,pulse,larva,20,0,Survival,21.4172,10.92714286,5.463571429,4,0.359339347,1.042467234,0.856688,mounding,Mussidae
+NU02b,Bassim and Sammarco 2003,Diploria,strigosa,control,9,pulse,larva,0,0,Survival,53.7445,27.42066327,13.71033163,4,,,2.14978,mounding,Mussidae
+NU02b,Bassim and Sammarco 2003,Diploria,strigosa,exp,9.083333333,pulse,larva,20,0,Survival,11.1653,5.696581633,2.848290816,4,0.20774777,1.484669621,0.446612,mounding,Mussidae
+NU02c,Bassim and Sammarco 2003,Diploria,strigosa,control,9,pulse,larva,0,0,Settlement,69.7,7.4,3.7,4,,,2.788,mounding,Mussidae
+NU02c,Bassim and Sammarco 2003,Diploria,strigosa,exp,9.083333333,pulse,larva,20,0,Settlement,48.66667,6.8148,3.4074,4,0.69823056,0.610228361,1.9466668,mounding,Mussidae
+NU11b,Cox and Ward 2002,Pocillopora,damicornis,control,240,press,larva,0.9,0,Settlement,49.6,13.1,6.55,4,,,1.984,branching,Pocilloporidae
+NU11b,Cox and Ward 2002,Pocillopora,damicornis,exp,240,press,larva,17.9,0,Settlement,53.9,6.46,3.23,4,1.086693548,0.683998648,2.156,branching,Pocilloporidae
+NU11d,Cox and Ward 2002,Pocillopora,damicornis,control,240,press,larva,0.9,0,Survival,32.8,5.79,4.094148263,2,,,0.656,branching,Pocilloporidae
+NU11d,Cox and Ward 2002,Pocillopora,damicornis,exp,240,press,larva,17.9,0,Survival,52.2,7.77,5.49421969,2,1.591463415,1.217474702,1.044,branching,Pocilloporidae
+NU43a,Kitchen et al 2020,Lobactis,scutaria,control,4,press,larva,0.12,0.06,Survival,28.899,8.204133409,3.669,5,,,1.44495,mushroom,Fungiidae
+NU43a,Kitchen et al 2020,Lobactis,scutaria,exp,4,press,larva,1.78,0.05,Survival,17.8899,4.102737525,1.8348,5,0.619049102,1.1874404,0.894495,mushroom,Fungiidae
+NU43a,Kitchen et al 2020,Lobactis,scutaria,exp,4,press,larva,0.06,0.49,Survival,19.266,4.102961132,1.8349,5,0.666666667,1.153327219,0.9633,mushroom,Fungiidae
+NU43a,Kitchen et al 2020,Lobactis,scutaria,exp,4,press,larva,1.02,0.41,Survival,21.5596,5.128645513,2.2936,5,0.746032735,1.104412271,1.07798,mushroom,Fungiidae
+NU43b,Kitchen et al 2020,Pocillopora,acuta,control,4,press,larva,0.9,0.19,Survival,95.8715,6.154441698,2.75235,5,,,4.793575,branching,Pocilloporidae
+NU43b,Kitchen et al 2020,Pocillopora,acuta,exp,4,press,larva,2.57,0.08,Survival,90.825688,6.154312006,2.752292,5,0.94736901,0.169748609,4.5412844,branching,Pocilloporidae
+NU43b,Kitchen et al 2020,Pocillopora,acuta,exp,4,press,larva,0.47,0.28,Survival,94.036697,5.128585139,2.293573,5,0.980861852,0.145929769,4.70183485,branching,Pocilloporidae
+NU43b,Kitchen et al 2020,Pocillopora,acuta,exp,4,press,larva,1.94,0.19,Survival,94.954128,3.077158239,1.376147,5,0.990431233,0.138710455,4.7477064,branching,Pocilloporidae
+NU43c,Kitchen et al 2020,Montipora,capitata,control,4,press,larva,0.47,0.04,Survival,50,24.6172525,11.00917,5,,,2.5,branching,Acroporidae
+NU43c,Kitchen et al 2020,Montipora,capitata,exp,4,press,larva,2.06,0.06,Survival,21.55963,22.56583007,10.091746,5,0.4311926,0.963150925,1.0779815,branching,Acroporidae
+NU43c,Kitchen et al 2020,Montipora,capitata,exp,4,press,larva,0.12,0.37,Survival,58.715596,4.102877727,1.8348627,5,1.17431192,0.583630878,2.9357798,branching,Acroporidae
+NU43c,Kitchen et al 2020,Montipora,capitata,exp,4,press,larva,0.54,0.39,Survival,54.12844,5.12859632,2.293578,5,1.0825688,0.607858148,2.706422,branching,Acroporidae
+NU48b,Lam et al 2015,Platygyra,acuta,control,72,pulse,larva,2.25,0.08,Survival,80,6.596400534,2.95,5,,,4,mounding,Merulinidae
+NU48b,Lam et al 2015,Platygyra,acuta,exp,72,pulse,larva,27.25,0.08,Survival,70,16.59162439,7.42,5,0.875,0.368394199,3.5,mounding,Merulinidae
+NU48b,Lam et al 2015,Platygyra,acuta,exp,72,pulse,larva,52.25,0.08,Survival,80,6.596400534,2.95,5,1,0.316227766,4,mounding,Merulinidae
+NU48b,Lam et al 2015,Platygyra,acuta,exp,72,pulse,larva,102.25,0.08,Survival,56.68,30.92482013,13.83,5,0.7085,0.45039777,2.834,mounding,Merulinidae
+NU48b,Lam et al 2015,Platygyra,acuta,exp,72,pulse,larva,202.25,0.08,Survival,14.29,14.42263845,6.45,5,0.178625,1.1178462,0.7145,mounding,Merulinidae
+NU48b,Lam et al 2015,Platygyra,acuta,exp,72,pulse,larva,27.25,0.08,Survival,84.33,4.136725758,1.85,5,1.054125,0.295234694,4.2165,mounding,Merulinidae
+NU48b,Lam et al 2015,Platygyra,acuta,exp,72,pulse,larva,52.25,0.08,Survival,78.8,7.222499567,3.23,5,0.985,0.322191103,3.94,mounding,Merulinidae
+NU48b,Lam et al 2015,Platygyra,acuta,exp,72,pulse,larva,102.25,0.08,Survival,68.2,12.36545592,5.53,5,0.8525,0.378490597,3.41,mounding,Merulinidae
+NU48b,Lam et al 2015,Platygyra,acuta,exp,72,pulse,larva,202.25,0.08,Survival,80,9.682174343,4.33,5,1,0.316227766,4,mounding,Merulinidae
+NU48b,Lam et al 2015,Platygyra,acuta,exp,72,pulse,larva,52.25,50.08,Survival,76.04,5.142956348,2.3,5,0.9505,0.336183675,3.802,mounding,Merulinidae
+NU48b,Lam et al 2015,Platygyra,acuta,exp,72,pulse,larva,102.25,100.08,Survival,76.04,6.171547618,2.76,5,0.9505,0.336183675,3.802,mounding,Merulinidae
+NU48c,Lam et al 2015,Platygyra,acuta,control,96,pulse,larva,2.25,0.08,Settlement,30,19.6773982,8.8,5,,,1.5,mounding,Merulinidae
+NU48c,Lam et al 2015,Platygyra,acuta,exp,96,pulse,larva,27.25,0.08,Settlement,21.57,11.26978261,5.04,5,0.719,1.092648337,1.0785,mounding,Merulinidae
+NU48c,Lam et al 2015,Platygyra,acuta,exp,96,pulse,larva,52.25,0.08,Settlement,6.58,6.260990337,2.8,5,0.219333333,1.818290501,0.329,mounding,Merulinidae
+NU48c,Lam et al 2015,Platygyra,acuta,exp,96,pulse,larva,102.25,0.08,Settlement,11.63,16.59162439,7.42,5,0.387666667,1.409381823,0.5815,mounding,Merulinidae
+NU48c,Lam et al 2015,Platygyra,acuta,exp,96,pulse,larva,202.25,0.08,Settlement,9.94,17.86618314,7.99,5,0.331333333,1.509549304,0.497,mounding,Merulinidae
+NU48c,Lam et al 2015,Platygyra,acuta,exp,96,pulse,larva,27.25,0.08,Settlement,24.93,11.26978261,5.04,5,0.831,1.033882467,1.2465,mounding,Merulinidae
+NU48c,Lam et al 2015,Platygyra,acuta,exp,96,pulse,larva,52.25,0.08,Settlement,23.25,24.73091183,11.06,5,0.775,1.061546853,1.1625,mounding,Merulinidae
+NU48c,Lam et al 2015,Platygyra,acuta,exp,96,pulse,larva,102.25,0.08,Settlement,14.85,15.65247584,7,5,0.495,1.270223608,0.7425,mounding,Merulinidae
+NU48c,Lam et al 2015,Platygyra,acuta,exp,96,pulse,larva,202.25,0.08,Settlement,11.49,11.58283212,5.18,5,0.383,1.416795929,0.5745,mounding,Merulinidae
+NU48c,Lam et al 2015,Platygyra,acuta,exp,96,pulse,larva,52.25,50.08,Settlement,9.8,18.17923266,8.13,5,0.326666667,1.519040155,0.49,mounding,Merulinidae
+NU48c,Lam et al 2015,Platygyra,acuta,exp,96,pulse,larva,102.25,100.08,Settlement,1.54,3.756594202,1.68,5,0.051333333,3.640560349,0.077,mounding,Merulinidae
+NU64a,Renegar 2015 (Ch 2),Porites,astreoides,control,14,press,larva,1.337,0.383,Survival,43.39623,4.669563477,3.30188,2,,,0.8679246,mounding,Poritidae
+NU64a,Renegar 2015 (Ch 2),Porites,astreoides,exp,14,press,larva,10.33,0.373,Survival,33.30189,9.605974912,6.79245,2,0.767391315,1.285919945,0.6660378,mounding,Poritidae
+NU64a,Renegar 2015 (Ch 2),Porites,astreoides,exp,14,press,larva,1.301,4.118,Survival,30,4.802994527,3.39623,2,0.691304291,1.348643943,0.6,mounding,Poritidae
+NU64a,Renegar 2015 (Ch 2),Porites,astreoides,exp,14,press,larva,10.31,4.105,Survival,36.79245,4.669577619,3.30189,2,0.847825952,1.229287713,0.735849,mounding,Poritidae
+NU64b,Renegar 2015 (Ch 2),Porites,astreoides,control,14,press,larva,1.259,0.345,Survival,38.20755,8.170049018,4.71698,3,,,1.1462265,mounding,Poritidae
+NU64b,Renegar 2015 (Ch 2),Porites,astreoides,exp,14,press,larva,10.323,0.355,Survival,32.16981,6.209246261,3.58491,3,0.841975212,1.114418874,0.9650943,mounding,Poritidae
+NU64b,Renegar 2015 (Ch 2),Porites,astreoides,exp,14,press,larva,1.27,4.152,Survival,26.22642,5.555622247,3.20754,3,0.686419831,1.215213655,0.7867926,mounding,Poritidae
+NU64b,Renegar 2015 (Ch 2),Porites,astreoides,exp,14,press,larva,10.28,4.176,Survival,33.30189,5.555622247,3.20754,3,0.871604958,1.098501453,0.9990567,mounding,Poritidae
+NU73a,Serrano 2018,Porites,astreoides,control,2,press,larva,3,0,Survival,96.181818,3.818182,1.909091,4,,,3.84727272,mounding,Poritidae
+NU73a,Serrano 2018,Porites,astreoides,exp,2,press,larva,12,0,Survival,91.818182,15.090904,7.545452,4,0.954631384,0.17944808,3.67272728,mounding,Poritidae
+NU73b,Serrano 2018,Porites,astreoides,control,4,press,larva,3,0,Survival,76,1.27272,0.63636,4,,,3.04,mounding,Poritidae
+NU73b,Serrano 2018,Porites,astreoides,exp,4,press,larva,12,0,Survival,67,2.9091,1.45455,4,0.881578947,0.449534978,2.68,mounding,Poritidae
+NU73c,Serrano 2018,Porites,astreoides,control,5,press,larva,3,0,Survival,52.18182,5.63636,2.81818,4,,,2.0872728,mounding,Poritidae
+NU73c,Serrano 2018,Porites,astreoides,exp,5,press,larva,12,0,Survival,37.45455,3.8182,1.9091,4,0.717770097,0.804095583,1.498182,mounding,Poritidae
+NU73d,Serrano 2018,Porites,astreoides,control,2,press,larva,3,0,Settlement,7.858617,3.476708,1.738354,4,,,0.31434468,mounding,Poritidae
+NU73d,Serrano 2018,Porites,astreoides,exp,2,press,larva,12,0,Settlement,25.91507,6.61696,3.30848,4,3.297662935,1.909426873,1.0366028,mounding,Poritidae
+NU73e,Serrano 2018,Porites,astreoides,control,4,press,larva,3,0,Settlement,19.74672,1.90658,0.95329,4,,,0.7898688,mounding,Poritidae
+NU73e,Serrano 2018,Porites,astreoides,exp,4,press,larva,12,0,Settlement,45.09304,2.46734,1.23367,4,2.283571145,1.149105011,1.8037216,mounding,Poritidae
+NU73f,Serrano 2018,Porites,astreoides,control,5,press,larva,3,0,Settlement,32.58811,5.60758,2.80379,4,,,1.3035244,mounding,Poritidae
+NU73f,Serrano 2018,Porites,astreoides,exp,5,press,larva,12,0,Settlement,49.35481,3.92532,1.96266,4,1.514503603,0.87959491,1.9741924,mounding,Poritidae
